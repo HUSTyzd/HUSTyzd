@@ -24,7 +24,7 @@
 
 - 🔭 I'm currently working on **PINN-Based Multiphysics Coupling**
 
-- 🌱 I'm currently a Ph.D. student in **Huazhong University of Science and Technology**
+- 🌱 I'm currently a Ph.D. student at **Huazhong University of Science and Technology**at
 
 - 📫 How to reach me **yang.zd.cn@outlook.com** **&** **2025612110@hust.edu.cn**
 
