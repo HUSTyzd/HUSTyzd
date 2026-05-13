@@ -1,10 +1,5 @@
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+This+is+Zedong+Ynag;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+This+is+Zedong+Yang;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 
 <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
