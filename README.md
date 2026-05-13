@@ -2,8 +2,6 @@
 
 ### Ph.D. candidate
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HUSTyzd&label=Profile views&color=0e75b6&style=flat" alt="HUSTyzd" /> </p>
-
 - 🔭 I'm currently working on **PINN-Based Multiphysics Coupling**
 
 - 🌱 I'm currently learning **PINN; Multiphysics Coupling; Comsol; Tennis; Badminton**
