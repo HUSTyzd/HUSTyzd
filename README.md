@@ -24,7 +24,7 @@
 
 
 
-- 📫 How to reach me **yang.zd.cn@outlook.com** **2025612110@hust.edu.cn**
+- 📫 How to reach me **yang.zd.cn@outlook.com** **&** **2025612110@hust.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
